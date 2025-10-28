@@ -4,10 +4,6 @@
 I'm a developer who loves building for both **FiveM** and the **web**.  
 Over the past few years, I’ve gone from experimenting with small scripts to creating full-scale systems and sites — blending clean code with creativity.  
 
-Right now, I’m focused on **FiveM framework development**, **backend systems**, and **front-end design**.  
-I enjoy learning by doing — breaking things, fixing them, and making them better.  
-
-When I’m not coding, you’ll probably find me experimenting with new projects, optimizing setups, or brainstorming something wild for the next big RP system.
 
 ---
 
