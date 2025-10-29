@@ -1,8 +1,4 @@
-# 👋 Hey there, I’m Browner  
-
-## 🧠 About Me:
-I'm a developer who loves building for both **FiveM** and the **web**.  
-Over the past few years, I’ve gone from experimenting with small scripts to creating full-scale systems and sites — blending clean code with creativity.  
+# 👋 Hey there, I’m Browner   
 
 
 ---
