@@ -1,13 +1,30 @@
-<div align="left" style="border: 1px solid #444; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+# Hey there! I'm Browner 👋  
 
-<h3>👋 Hey there, I’m Browner</h3>
+## 👨‍💼 About Me  
+- 📦 **Supply Chain Major** passionate about improving business efficiency through technology.  
+- 💻 Currently learning **Software Development** to expand my skills and build real-world tools.  
+- 🎮 **FiveM Enthusiast**, always exploring new ways to create immersive RP scripts and systems.  
+- ⚙️ Fascinated by how **automation** and **data-driven systems** streamline operations.  
+- ☕ Nothing fuels debugging or documentation quite like a good cup of coffee.  
+- 🌱 Always learning and pushing myself to connect **logistics** and **logic** through code.  
 
-<p>📦 <b>Supply Chain Major</b> exploring how technology and automation can transform business efficiency.<br>
-💻 Currently learning <b>Software Development</b> to expand my skillset and build real-world solutions.<br>
-🎮 <b>FiveM Enthusiast</b>, learning to create scripts and frameworks for immersive RP experiences.<br>
-🧠 Always experimenting, improving, and bridging the gap between <b>operations and code</b>.</p>
+## 🧰 Tech Stack  
+- **Languages:** Lua | JavaScript | TypeScript | HTML | CSS  
+- **Frameworks & Tools:** Node.js | Express | React | PostgreSQL | Prisma  
+- **Environments:** Visual Studio Code | GitHub | Docker  
+- **Extras:** Figma | Photoshop | OBS Studio  
 
-<blockquote><i>“Blending logistics and logic — one line of code at a time.”</i></blockquote>
+## 📘 Currently Learning  
+- 🔹 Lua – scripting for **FiveM** and backend game logic.  
+- 🔹 JavaScript – strengthening fundamentals and DOM manipulation.  
+- 🔹 TypeScript – learning to write **safer, scalable web applications**.  
 
-</div>
+## 🤝 Connect With Me  
+<p align="left">
+  <a href="https://github.com/BrownerDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitch.tv/browner13_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="mailto:brownerdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+
  
