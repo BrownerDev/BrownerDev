@@ -3,9 +3,8 @@
 ## 👨‍💼 About Me  
 - 📦 **Supply Chain Major** passionate about improving business efficiency through technology.  
 - 💻 Currently learning **Software Development** to expand my skills and build real-world tools.  
-- 🎮 **FiveM Enthusiast**, always exploring new ways to create immersive RP scripts and systems.  
-- ⚙️ Fascinated by how **automation** and **data-driven systems** streamline operations.  
-- ☕ Nothing fuels debugging or documentation quite like a good cup of coffee.  
+- 🎮 **FiveM Liker**, always exploring new ways to create immersive RP scripts and systems.  
+- ⚙️ Fascinated by how **automation** and **data-driven systems** streamline operations.    
 - 🌱 Always learning and pushing myself to connect **logistics** and **logic** through code.  
 
 ## 🧰 Tech Stack  
