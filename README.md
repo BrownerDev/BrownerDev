@@ -19,12 +19,5 @@
 - 🔹 JavaScript – strengthening fundamentals and DOM manipulation.  
 - 🔹 TypeScript – learning to write **safer, scalable web applications**.  
 
-## 🤝 Connect With Me  
-<p align="left">
-  <a href="https://github.com/BrownerDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitch.tv/browner13_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="mailto:brownerdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 
  
