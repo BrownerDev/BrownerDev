@@ -18,5 +18,8 @@
 - 🔹 JavaScript – strengthening fundamentals and DOM manipulation.  
 - 🔹 TypeScript – learning to write **safer, scalable web applications**.  
 
-
+## 🔍 Current Projects
+- Helix RP Server 
+   - Looking for Frontend & Backend Developers, Mappers, Scripters.
+   - Reach out to my Discord @Browner for more info
  
